@@ -14,5 +14,5 @@ Something about me:
 
 
 
-[![Spwpun's github stats](https://github-readme-stats.vercel.app/api?username=spwpun&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Spwpun's github stats](https://github-readme-stats.vercel.app/api?username=spwpun&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
