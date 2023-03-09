@@ -10,7 +10,7 @@ Something about me:
 - ⚡ Fun facts: Guitar, Vlog, Binary, CTF, Runing, Football, Reading.
 
 ### PGP:
-
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEZAcWnBYJKwYBBAHaRw8BAQdA/howctx0ZiwB2InQdNdhPlqIbyDEX5H3mJ7F
@@ -24,7 +24,7 @@ w1ikAAoJEN31ffpp4ThV+/QA/1+M0EK8A1au2/Zk1DYSsAudsTu55d6ZX9O3drOB
 I/zEAQD3YU84c1tut3g9w4YhDOV/1Tq2odAXPStpRH3c22JZCA==
 =lg0t
 -----END PGP PUBLIC KEY BLOCK-----
-
+```
 ### Stats:
 
 [![Spwpun's github stats](https://github-readme-stats.vercel.app/api?username=spwpun&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
