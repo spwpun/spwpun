@@ -6,8 +6,8 @@
 
 Something about me:
 
-- 💬 Ask me something by emails if need(or encrypted with key below).
-- ⚡ Fun facts: Guitar, Vlog, Binary, CTF, Runing, Football, Reading.
+- 💬 Ask me something by email if need(or encrypted with public key below).
+- ⚡ Fun facts: Guitar, Vlog, Binary, CTF, Running, Football, Reading, Fitting.
 
 ### PGP:
 ```
